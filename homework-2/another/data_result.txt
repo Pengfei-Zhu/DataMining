@@ -1,0 +1,118 @@
+symbol_2
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_2
+symbol_2
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_2
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_2
+symbol_2
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_2
+symbol_2
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_2
+symbol_3	symbol_4	symbol_6
+symbol_3	symbol_4	symbol_6
+symbol_2
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_3	symbol_6
+symbol_2
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_3	symbol_6
+symbol_3	symbol_4	symbol_6
+symbol_2
+symbol_3	symbol_6
+symbol_2
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_3	symbol_6
+symbol_2
+symbol_3	symbol_6
+symbol_3	symbol_4	symbol_6
+symbol_2
+symbol_2
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_3	symbol_6
+symbol_3	symbol_6
+symbol_3	symbol_4	symbol_6
+symbol_3	symbol_4	symbol_6
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_3	symbol_4	symbol_6
+symbol_3	symbol_4	symbol_6
+symbol_2
+symbol_3	symbol_6
+symbol_2
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_3	symbol_6
+symbol_3	symbol_4	symbol_6
+symbol_3	symbol_4	symbol_6
+symbol_2
+symbol_3	symbol_4	symbol_5	symbol_6
+symbol_3	symbol_6
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_5	symbol_6	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_5	symbol_6	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_6	symbol_7
+symbol_0
+symbol_0
+symbol_0	symbol_1	symbol_2	symbol_4	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_4	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_6	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_5	symbol_6	symbol_7
+symbol_0
+symbol_0	symbol_1	symbol_2	symbol_4	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_5	symbol_6	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_6	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_6	symbol_7
+symbol_0
+symbol_0	symbol_1	symbol_2	symbol_4	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_6	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_5	symbol_6	symbol_7
+symbol_0
+symbol_0	symbol_1	symbol_2	symbol_4	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_5	symbol_6	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_6	symbol_7
+symbol_0
+symbol_0	symbol_1	symbol_2	symbol_4	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_6	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_6	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_5	symbol_6	symbol_7
+symbol_0
+symbol_0	symbol_1	symbol_2	symbol_4	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_5	symbol_6	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_6	symbol_7
+symbol_0
+symbol_0	symbol_1	symbol_2	symbol_4	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_5	symbol_6	symbol_7
+symbol_0
+symbol_0	symbol_1	symbol_2	symbol_4	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_1	symbol_2	symbol_3	symbol_4	symbol_6	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0
+symbol_0	symbol_1	symbol_2	symbol_4	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
+symbol_0	symbol_2	symbol_3	symbol_5	symbol_7
