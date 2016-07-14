@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding/KNN.py=utf-8
+encoding/TextPreprocess.py=utf-8
+encoding/corpus_segment.py=utf-8
+encoding/naivebayers.py=utf-8
+encoding/simple_svm.py=utf-8
+encoding/test.py=utf-8
+encoding/text_mining.py=utf-8
+encoding/tf-idf_test.py=utf-8
+encoding/tf-idffinal.py=utf-8
+encoding/topic_extract.py=utf-8
+encoding/train_bags.py=utf-8
+encoding/train_bags1.py=utf-8
